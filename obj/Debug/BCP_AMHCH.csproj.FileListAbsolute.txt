@@ -1,0 +1,14 @@
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\bin\Debug\BCP_AMHCH.exe.config
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\bin\Debug\BCP_AMHCH.exe
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\bin\Debug\BCP_AMHCH.pdb
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.csproj.AssemblyReference.cache
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.Form1.resources
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.Properties.Resources.resources
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.csproj.GenerateResource.cache
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.csproj.CoreCompileInputs.cache
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.exe
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.pdb
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.Form2.resources
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.Form3.resources
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.Form6.resources
+C:\Users\ARTURO\Source\Repos\BCP_AMHCH\BCP_AMHCH\obj\Debug\BCP_AMHCH.Form7.resources
